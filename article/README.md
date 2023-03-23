@@ -10,4 +10,8 @@ Git is strong !
 
 ![image2](https://media1.giphy.com/media/D7z8JfNANqahW/200w.gif?cid=82a1493bpzbvwqqygkzuly6f0g0alwd81lgqn5r8t6qird5u&rid=200w.gif&ct=g)
 
+<<<<<<< HEAD
 Another modification 
+=======
+This is a local edit.
+>>>>>>> cd4409f (Local modification to README.md)
